@@ -1,2 +1,4 @@
-# email-sender
-In this we used SMTP library built in module of Python for sending emails.
+# Python-Mail-Sender
+Send Emails using SMTPLib in python 
+
+Tutorial : https://youtu.be/URhubJZMqvQ
